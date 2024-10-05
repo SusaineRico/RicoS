@@ -1,0 +1,2 @@
+# RicoS
+Foe educational purposes
