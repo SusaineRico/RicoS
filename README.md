@@ -1,2 +1,2 @@
 # RicoS
-Foe educational purposes
+For educational purposes
