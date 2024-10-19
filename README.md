@@ -1,2 +1,0 @@
-# RicoS
-For educational purposes
